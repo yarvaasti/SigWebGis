@@ -1,0 +1,1 @@
+var json__1 = {"type":"FeatureCollection","name":"_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"full_id":"n1308681598","osm_id":"1308681598","osm_type":"node","place":"village","name":"Grobogan"},"geometry":{"type":"Point","coordinates":[110.9169782,-7.0320002]}}]}
